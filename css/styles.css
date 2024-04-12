@@ -1,0 +1,106 @@
+body {
+    
+}
+ul {
+    list-style-type: none;
+}
+.logo_link {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
+}
+.logo_accent {
+    color: #2e2f42;
+}
+.nav_link {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+.nav_link:hover,
+.nav_link:focus {
+    color: #404bbf;
+}
+.nav_item {
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.adres_link {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;      
+}
+.hero {
+    background: #2e2f42;
+}
+.hero-title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.hero_but {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: #4d5ae5;
+    cursor: pointer;
+    border-color: transparent;
+}
+.hero_but:hover,
+.hero_but:focus {
+    background: #404bbf;
+}
+.item_title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}
+.item_p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.team {
+    background: #f4f4fd;
+}
+.team_item {
+    background-color: #FFFFFF;
+}
+.team-title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
+}
+
+
