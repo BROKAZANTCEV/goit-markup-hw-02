@@ -51,6 +51,10 @@ ul {
     color: #434455;
     text-decoration: none;      
 }
+.adres_link:hover,
+.adres_link:fokus {
+    color:#404bbf;
+}
 .hero {
     background: #2e2f42;
 }
