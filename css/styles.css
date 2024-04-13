@@ -1,6 +1,5 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
     font-size: 18px;
     background-color : #fff;
     line-height: 1.5;
@@ -96,7 +95,7 @@ ul {
     color: #434455;
 }
 .team {
-    background: #fdf4f4;
+    background: #f4f4fd;
 }
 .team_item {
     background-color: #FFFFFF;
