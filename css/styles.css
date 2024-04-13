@@ -52,7 +52,8 @@ ul {
     text-decoration: none;      
 }
 .adres_link:hover,
-.adres_link:fokus {
+.adres_link:focus {
+
     color:#404bbf;
 }
 .hero {
