@@ -40,6 +40,9 @@ ul {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.adres {
+    font-style: normal;
+}
 .adres_link {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -52,7 +55,7 @@ ul {
 .hero {
     background: #2e2f42;
 }
-.hero-title {
+.hero_title {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
@@ -76,7 +79,7 @@ ul {
 .hero_but:focus {
     background: #404bbf;
 }
-.item_title {
+.benef_item  {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -84,7 +87,7 @@ ul {
     letter-spacing: 0.02em;
     color: #2e2f42
 }
-.item_p {
+.benef_p {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
